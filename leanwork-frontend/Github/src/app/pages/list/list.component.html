@@ -1,0 +1,26 @@
+<div class="row">
+  <div class="col m-3">
+    <div class="card">
+      <div class="card-body">
+        <h1>Lista de Usuários</h1>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Id</th>
+              <th>Login</th>
+              <th style="width: 120px;">Ações</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let user of listUsers | slice:0:100">
+              <td>{{user.id}}</td>
+              <td>{{user.login}}</td>
+              <td><a href="{{ 'detail/' + user.login }}" class="btn btn-primary">Detalhar</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+</div>
