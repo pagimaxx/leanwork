@@ -1,4 +1,4 @@
-# leanwork
+# LeanWork
 Repositório do teste da LeanWork
 
 ## Explicando as decisões das soluções aplicadas no teste
