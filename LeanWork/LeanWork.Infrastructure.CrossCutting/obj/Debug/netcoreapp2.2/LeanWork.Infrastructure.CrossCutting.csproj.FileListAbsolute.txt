@@ -1,0 +1,9 @@
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.deps.json
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.dll
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.pdb
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.csprojAssemblyReference.cache
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.dll
+C:\_dev\LeanWork\LeanWork.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.pdb

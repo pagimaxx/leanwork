@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FuelSupply.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Gier.Api.Controllers.TipoSuspensaoController">
+            <summary>
+            API Usuario
+            </summary>
+        </member>
+        <member name="M:Gier.Api.Controllers.TipoSuspensaoController.#ctor(Gier.AppService.Interfaces.ITipoSuspensaoAppService)">
+            <summary>
+            Construtor
+            </summary>
+            <param name="iTipoSuspensaoAppServico"></param>
+        </member>
+        <member name="M:Gier.Api.Controllers.TipoSuspensaoController.ObterPorId(System.Int32)">
+            <summary>
+            Obtém informações Tipo de Suspensão de Usuário
+            </summary>
+            <param name="idTipoSuspensao">Código do Tipo de Suspensão de Usuário</param>
+            <returns>Informações Tipo de Suspensão de Usuário</returns>
+        </member>
+        <member name="M:Gier.Api.Controllers.TipoSuspensaoController.ObterTodos">
+            <summary>
+            Obtém todas informações Tipo de Suspensão de Usuário
+            </summary>
+            <returns>Informações Tipo de Suspensão de Usuário</returns>
+        </member>
+        <member name="M:Gier.Api.Controllers.TipoSuspensaoController.Cadastrar(Gier.AppService.ViewModels.Inclusao.TipoSuspensaoInclusaoVm,System.Int32)">
+            <summary>
+            Cadastrar Tipo de Suspensão de Usuário
+            </summary>
+            <param name="tipoBiblioteca"></param>
+            <param name="idUsuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gier.Api.Controllers.TipoSuspensaoController.Atualizar(Gier.AppService.ViewModels.Alteracao.TipoSuspensaoAlteracaoVm,System.Int32)">
+            <summary>
+            Atualizar Tipo de Suspensão de Usuário
+            </summary>
+            <param name="tipoSuspensao"></param>
+            <param name="idUsuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gier.Api.Controllers.TipoSuspensaoController.Remover(System.Int32)">
+            <summary>
+            Remover Tipo de Suspensão de Usuário
+            </summary>
+            <param name="idTipoSuspensao"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Gier.Api.Startup">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="P:Gier.Api.Startup.Configuration">
+            <summary>
+            Configuration
+            </summary>
+        </member>
+        <member name="M:Gier.Api.Startup.#ctor(Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:Gier.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Gier.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.Extensions.Logging.ILoggerFactory)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+        </member>
+    </members>
+</doc>

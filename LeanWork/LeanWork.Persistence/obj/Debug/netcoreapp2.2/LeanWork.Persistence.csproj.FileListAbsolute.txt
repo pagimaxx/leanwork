@@ -1,0 +1,14 @@
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.csprojAssemblyReference.cache
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.csproj.CoreCompileInputs.cache
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.AssemblyInfoInputs.cache
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.AssemblyInfo.cs
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Persistence.deps.json
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Persistence.dll
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Persistence.pdb
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Domain.dll
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.dll
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Domain.pdb
+C:\_dev\LeanWork\LeanWork.Persistence\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.pdb
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.csproj.CopyComplete
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.dll
+C:\_dev\LeanWork\LeanWork.Persistence\obj\Debug\netcoreapp2.2\LeanWork.Persistence.pdb

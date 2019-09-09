@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gier.AppService</name>
+    </assembly>
+    <members>
+        <member name="T:Gier.AppService.ObjectMappers.MappingProfile">
+            <summary>
+            Mapear AutoMapper
+            </summary>
+        </member>
+        <member name="M:Gier.AppService.ObjectMappers.MappingProfile.#ctor">
+            <summary>
+            Mapeamento dos Dominios
+            </summary>
+        </member>
+        <member name="T:Gier.AppService.Service.TipoSuspensaoAppService">
+            <summary>
+            Tipo Suspensão
+            </summary>
+        </member>
+        <member name="M:Gier.AppService.Service.TipoSuspensaoAppService.#ctor(Gier.Domain.Interfaces.Services.ITipoSuspensaoService)">
+            <summary>
+            Construtor
+            </summary>
+            <param name="tipoSuspensaoService"></param>
+        </member>
+        <member name="M:Gier.AppService.Service.TipoSuspensaoAppService.Atualizar(Gier.AppService.ViewModels.Alteracao.TipoSuspensaoAlteracaoVm,System.Int32)">
+            <summary>
+            Atualização de Tipo de Usuários de Suspensão de Usuário
+            </summary>
+            <param name="tipoSuspensao">Informações de Tipo de Usuários de Suspensão de Usuário</param>
+            <param name="idUsuario">Identificador do Usuário</param>
+            <returns>
+            Sucesso = True , Insucesso = False
+            </returns>
+        </member>
+        <member name="M:Gier.AppService.Service.TipoSuspensaoAppService.Cadastrar(Gier.AppService.ViewModels.Inclusao.TipoSuspensaoInclusaoVm,System.Int32)">
+            <summary>
+            Cadastro de Tipo de Suspensão de Usuário
+            </summary>
+            <param name="tipoSuspensao"></param>
+            <param name="idUsuario"></param>
+            <returns> Identificador do Tipo de Suspensão de Usuário</returns>
+        </member>
+        <member name="M:Gier.AppService.Service.TipoSuspensaoAppService.ObterPorId(System.Int32)">
+            <summary>
+            Consulta Tipo de Suspensão de Usuário
+            </summary>
+            <param name="idTipoSuspensao">Identificador de Tipo de Suspensão de Usuário</param>
+            <returns>Tipo de Suspensão de Usuário</returns>
+        </member>
+        <member name="M:Gier.AppService.Service.TipoSuspensaoAppService.ObterTodos">
+            <summary>
+            Consulta todos Tipos de Suspensão de Usuário
+            </summary>
+            <returns>Tipos de Suspensão de Usuário</returns>
+        </member>
+        <member name="M:Gier.AppService.Service.TipoSuspensaoAppService.Remover(System.Int32)">
+            <summary>
+            Excluir Tipo de Suspensão de Usuário
+            </summary>
+            <param name="idTipoSuspensao">Identificador do Tipo de Suspensão de Usuário</param>
+            <returns>Sucesso = True , Insucesso = False</returns>
+        </member>
+        <member name="P:Gier.AppService.ViewModels.Alteracao.TipoSuspensaoAlteracaoVm.IdTipoSuspensao">
+            <summary>
+            Identificador do Tipo da Biblioteca
+            </summary>
+        </member>
+        <member name="P:Gier.AppService.ViewModels.Alteracao.TipoSuspensaoAlteracaoVm.Descricao">
+            <summary>
+            Descrição do Tipo da Suspensão de Usuário
+            </summary>
+        </member>
+        <member name="P:Gier.AppService.ViewModels.Consulta.TipoSuspensaoConsultaVm.IdTipoSuspensao">
+            <summary>
+            Identificador do Tipo da Suspensão de Usuário
+            </summary>
+        </member>
+        <member name="P:Gier.AppService.ViewModels.Consulta.TipoSuspensaoConsultaVm.Descricao">
+            <summary>
+            Descrição do Tipo da Suspensão de Usuário
+            </summary>
+        </member>
+        <member name="P:Gier.AppService.ViewModels.Inclusao.TipoSuspensaoInclusaoVm.Descricao">
+            <summary>
+            Descrição do Tipo da Suspensão de Usuário
+            </summary>
+        </member>
+        <member name="T:Gier.AppService.ViewModels.Usuario.UsuarioLogado">
+            <summary>
+            Usuario Logado
+            </summary>
+        </member>
+        <member name="P:Gier.AppService.ViewModels.Usuario.UsuarioLogado.IdUsuario">
+            <summary>
+            Identificador do Usuário
+            </summary>
+        </member>
+    </members>
+</doc>

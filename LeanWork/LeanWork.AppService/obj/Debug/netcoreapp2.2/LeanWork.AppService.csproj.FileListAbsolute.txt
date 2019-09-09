@@ -1,0 +1,14 @@
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.AppService.deps.json
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.AppService.dll
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.AppService.pdb
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.csprojAssemblyReference.cache
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.csproj.CoreCompileInputs.cache
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.AssemblyInfoInputs.cache
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.AssemblyInfo.cs
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.dll
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.pdb
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.Domain.dll
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.dll
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.Domain.pdb
+C:\_dev\LeanWork\LeanWork.AppService\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.pdb
+C:\_dev\LeanWork\LeanWork.AppService\obj\Debug\netcoreapp2.2\LeanWork.AppService.csproj.CopyComplete

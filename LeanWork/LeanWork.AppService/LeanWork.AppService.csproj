@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.4.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="ObjectMappers\" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\LeanWork.Domain\LeanWork.Domain.csproj" />
+    <ProjectReference Include="..\LeanWork.Infrastructure.CrossCutting\LeanWork.Infrastructure.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

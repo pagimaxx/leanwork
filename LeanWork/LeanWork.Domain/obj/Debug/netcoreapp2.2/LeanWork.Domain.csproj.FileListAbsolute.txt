@@ -1,0 +1,12 @@
+C:\_dev\LeanWork\LeanWork.Domain\bin\Debug\netcoreapp2.2\LeanWork.Domain.deps.json
+C:\_dev\LeanWork\LeanWork.Domain\bin\Debug\netcoreapp2.2\LeanWork.Domain.dll
+C:\_dev\LeanWork\LeanWork.Domain\bin\Debug\netcoreapp2.2\LeanWork.Domain.pdb
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.csprojAssemblyReference.cache
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.csproj.CoreCompileInputs.cache
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.AssemblyInfoInputs.cache
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.AssemblyInfo.cs
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.dll
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.pdb
+C:\_dev\LeanWork\LeanWork.Domain\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.dll
+C:\_dev\LeanWork\LeanWork.Domain\bin\Debug\netcoreapp2.2\LeanWork.Infrastructure.CrossCutting.pdb
+C:\_dev\LeanWork\LeanWork.Domain\obj\Debug\netcoreapp2.2\LeanWork.Domain.csproj.CopyComplete
